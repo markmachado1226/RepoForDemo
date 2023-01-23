@@ -17,6 +17,7 @@ public class DemoProject {
         // TODO code application logic here
         
         System.out.println("testtest");
+        System.out.println("weeee"); 
     }
     
 }
