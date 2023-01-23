@@ -21,6 +21,8 @@ public class DemoProject {
         System.out.println("modifications"); 
         //modification #2 
         System.out.println("weewoo"); 
+        //fetch 
+        System.out.println("This was fetched and then merged"); 
     }
     
 }
